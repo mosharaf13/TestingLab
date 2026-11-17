@@ -1,0 +1,14 @@
+{
+    "name": "TestingLab.Editor",
+    "rootNamespace": "TestingLab.EditorTools",
+    "references": ["TestingLab.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
