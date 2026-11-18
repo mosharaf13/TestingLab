@@ -1,0 +1,20 @@
+{
+    "name": "TestingLab.Tests.Shared",
+    "rootNamespace": "TestingLab.Tests.Shared",
+    "references": [
+        "TestingLab.Core",
+        "TestingLab.Gameplay",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

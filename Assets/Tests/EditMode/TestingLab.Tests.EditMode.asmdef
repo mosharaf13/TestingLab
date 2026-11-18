@@ -4,7 +4,10 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "TestingLab.Runtime"
+        "TestingLab.Core",
+        "TestingLab.Gameplay",
+        "TestingLab.Editor",
+        "TestingLab.Tests.Shared"
     ],
     "includePlatforms": ["Editor"],
     "excludePlatforms": [],

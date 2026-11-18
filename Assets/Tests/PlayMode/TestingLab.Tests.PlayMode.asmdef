@@ -3,7 +3,10 @@
     "rootNamespace": "TestingLab.Tests.PlayMode",
     "references": [
         "UnityEngine.TestRunner",
-        "TestingLab.Runtime"
+        "UnityEngine.UI",
+        "TestingLab.Core",
+        "TestingLab.Gameplay",
+        "TestingLab.Tests.Shared"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

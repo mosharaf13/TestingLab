@@ -1,7 +1,11 @@
 {
     "name": "TestingLab.Editor",
     "rootNamespace": "TestingLab.EditorTools",
-    "references": ["TestingLab.Runtime"],
+    "references": [
+        "TestingLab.Core",
+        "TestingLab.Gameplay",
+        "UnityEngine.UI"
+    ],
     "includePlatforms": ["Editor"],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
